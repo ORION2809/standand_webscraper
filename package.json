@@ -1,0 +1,25 @@
+{
+  "name": "aurora-aqua-scraper",
+  "version": "1.0.0",
+  "description": "Web scraper for Aurora Aqua website data extraction",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scraper.js",
+    "clean": "rm -rf output && mkdir -p output"
+  },
+  "dependencies": {
+    "axios": "^1.6.5",
+    "cheerio": "^1.0.0-rc.12",
+    "fs-extra": "^11.1.1",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.37.2",
+    "slugify": "^1.6.6"
+  },
+  "keywords": [
+    "webscraper",
+    "data-extraction",
+    "aurora-aqua"
+  ],
+  "author": "Aurora Aqua",
+  "license": "MIT"
+}

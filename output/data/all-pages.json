@@ -1,0 +1,992 @@
+[
+  {
+    "url": "https://www.auroraaqua.in/",
+    "title": "Aurora Aqua",
+    "metaDescription": "",
+    "metaKeywords": "",
+    "content": [
+      {
+        "tag": "p",
+        "text": "Aurora Aqua · Aquaculture platform"
+      },
+      {
+        "tag": "p",
+        "text": "Aurora Aqua is the umbrella for data-driven aquaculture—helping farms, integrators and partners move from scattered logs to structured, visible operations."
+      },
+      {
+        "tag": "p",
+        "text": "Coastal Andhra, Tamil Nadu and Odisha with on-ground teams."
+      },
+      {
+        "tag": "p",
+        "text": "Structured logs, insights, partner APIs and offline-first field use."
+      },
+      {
+        "tag": "p",
+        "text": "Aurora Aqua is a set of connected layers—from daily farm operations to intelligence and partner integrations—built on one aquaculture data backbone."
+      },
+      {
+        "tag": "p",
+        "text": "Daily reality inside ponds and crops—logs, tasks, checklists, expenses and inventory. Aqua Sahay lives here."
+      },
+      {
+        "tag": "p",
+        "text": "Turning raw logs into decision-ready signals around risk, opportunity, seasonality and pond performance."
+      },
+      {
+        "tag": "p",
+        "text": "Sensors, labs, buyers and other systems that plug into the same aquaculture data backbone through clean APIs."
+      },
+      {
+        "tag": "p",
+        "text": "Every module is shaped with on-ground teams so the workflow fits how farms actually run."
+      },
+      {
+        "tag": "p",
+        "text": "Logs and tasks stay two taps away—even on patchy networks."
+      },
+      {
+        "tag": "p",
+        "text": "One backbone for sites, ponds and crops so decisions stay aligned."
+      },
+      {
+        "tag": "p",
+        "text": "Sensors, labs and buyers plug in without custom rewrites every season."
+      },
+      {
+        "tag": "p",
+        "text": "India is one of the fastest-growing aquaculture markets—shrimp, tilapia and carp across coastal Andhra, Tamil Nadu and Odisha. We work with farms, integrators and buyers to keep data flowing from ponds to decisions."
+      },
+      {
+        "tag": "p",
+        "text": "Ops teams and partners on the ground."
+      },
+      {
+        "tag": "p",
+        "text": "Shrimp and diversified species expansion."
+      },
+      {
+        "tag": "p",
+        "text": "Structured logs, feed and health data."
+      },
+      {
+        "tag": "p",
+        "text": "Clean APIs and field workflows."
+      },
+      {
+        "tag": "p",
+        "text": "Aqua Sahay is the first product coming out of Aurora Aqua. More modules will follow over time."
+      },
+      {
+        "tag": "p",
+        "text": "Farm-operations app for ponds and crops. Structured logs, tasks and visibility around daily aquaculture work."
+      },
+      {
+        "tag": "p",
+        "text": "Intelligence layer for farms and partners—dashboards, alerts and AI-powered recommendations on top of Aqua Sahay data."
+      },
+      {
+        "tag": "p",
+        "text": "A clean way for devices, labs and partner systems to plug into the same aquaculture data backbone."
+      },
+      {
+        "tag": "p",
+        "text": "If you're interested in Aqua Sahay or the broader roadmap, send us a short note with your context—pond count, species, region and what you're trying to improve."
+      },
+      {
+        "tag": "p",
+        "text": "Include your location, pond count and what you want to improve in the next 1–2 crops. We reply within 1 business day."
+      },
+      {
+        "tag": "h1",
+        "text": "Aquaculture that runs like a modern business."
+      },
+      {
+        "tag": "h2",
+        "text": "What Aurora Aqua covers"
+      },
+      {
+        "tag": "h2",
+        "text": "Operator-first principles"
+      },
+      {
+        "tag": "h2",
+        "text": "Aquaculture in India · where we operate"
+      },
+      {
+        "tag": "h2",
+        "text": "Products under Aurora Aqua"
+      },
+      {
+        "tag": "h2",
+        "text": "Talk to the Aurora Aqua team"
+      },
+      {
+        "tag": "ul",
+        "text": "• Early access cohorts in coastal clusters with on-ground support.• Data backbone for partners—labs, buyers, hatcheries and sensor OEMs.• Pilot analytics: survivability, feed conversion, water quality patterns."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.auroraaqua.in/aurora-aqua-mark.svg",
+        "alt": "Aurora Aqua",
+        "title": ""
+      },
+      {
+        "src": "https://www.auroraaqua.in/aurora-aqua-logo.svg",
+        "alt": "Aurora Aqua logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.auroraaqua.in/in.svg",
+        "alt": "India map focused on coastal footprint",
+        "title": ""
+      }
+    ],
+    "navigation": [
+      {
+        "text": "Overview",
+        "url": "https://www.auroraaqua.in/",
+        "isExternal": false
+      },
+      {
+        "text": "Products",
+        "url": "https://www.auroraaqua.in/#products",
+        "isExternal": false
+      },
+      {
+        "text": "Contact",
+        "url": "https://www.auroraaqua.in/#contact",
+        "isExternal": false
+      },
+      {
+        "text": "Open Dashboard",
+        "url": "https://app.auroraaqua.in",
+        "isExternal": true
+      }
+    ],
+    "sections": [
+      {
+        "id": "section-0",
+        "class": "relative mb-12 grid gap-8 overflow-hidden rounded-3xl bg-white/60 p-5 shadow-[0_15px_40px_rgba(15,23,42,0.08)] ring-1 ring-slate-100 md:grid-cols-[minmax(0,1.6fr)_minmax(0,1.2fr)] md:items-center md:gap-10",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aurora Aqua · Aquaculture platform"
+          },
+          {
+            "tag": "p",
+            "text": "Aurora Aqua is the umbrella for data-driven aquaculture—helping farms, integrators and partners move from scattered logs to structured, visible operations."
+          },
+          {
+            "tag": "p",
+            "text": "Coastal Andhra, Tamil Nadu and Odisha with on-ground teams."
+          },
+          {
+            "tag": "p",
+            "text": "Structured logs, insights, partner APIs and offline-first field use."
+          },
+          {
+            "tag": "h1",
+            "text": "Aquaculture that runs like a modern business."
+          }
+        ]
+      },
+      {
+        "id": "section-1",
+        "class": "mb-12 fade-up fade-delay-50",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aurora Aqua is a set of connected layers—from daily farm operations to intelligence and partner integrations—built on one aquaculture data backbone."
+          },
+          {
+            "tag": "p",
+            "text": "Daily reality inside ponds and crops—logs, tasks, checklists, expenses and inventory. Aqua Sahay lives here."
+          },
+          {
+            "tag": "p",
+            "text": "Turning raw logs into decision-ready signals around risk, opportunity, seasonality and pond performance."
+          },
+          {
+            "tag": "p",
+            "text": "Sensors, labs, buyers and other systems that plug into the same aquaculture data backbone through clean APIs."
+          },
+          {
+            "tag": "h2",
+            "text": "What Aurora Aqua covers"
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "class": "mb-12 rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm fade-up fade-delay-80",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Every module is shaped with on-ground teams so the workflow fits how farms actually run."
+          },
+          {
+            "tag": "p",
+            "text": "Logs and tasks stay two taps away—even on patchy networks."
+          },
+          {
+            "tag": "p",
+            "text": "One backbone for sites, ponds and crops so decisions stay aligned."
+          },
+          {
+            "tag": "p",
+            "text": "Sensors, labs and buyers plug in without custom rewrites every season."
+          },
+          {
+            "tag": "h2",
+            "text": "Operator-first principles"
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "class": "mb-12 grid gap-6 rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm md:grid-cols-[1.2fr_1fr] md:items-center fade-up fade-delay-120",
+        "content": [
+          {
+            "tag": "p",
+            "text": "India is one of the fastest-growing aquaculture markets—shrimp, tilapia and carp across coastal Andhra, Tamil Nadu and Odisha. We work with farms, integrators and buyers to keep data flowing from ponds to decisions."
+          },
+          {
+            "tag": "p",
+            "text": "Ops teams and partners on the ground."
+          },
+          {
+            "tag": "p",
+            "text": "Shrimp and diversified species expansion."
+          },
+          {
+            "tag": "p",
+            "text": "Structured logs, feed and health data."
+          },
+          {
+            "tag": "p",
+            "text": "Clean APIs and field workflows."
+          },
+          {
+            "tag": "h2",
+            "text": "Aquaculture in India · where we operate"
+          },
+          {
+            "tag": "ul",
+            "text": "• Early access cohorts in coastal clusters with on-ground support.• Data backbone for partners—labs, buyers, hatcheries and sensor OEMs.• Pilot analytics: survivability, feed conversion, water quality patterns."
+          }
+        ]
+      },
+      {
+        "id": "products",
+        "class": "mb-12",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aqua Sahay is the first product coming out of Aurora Aqua. More modules will follow over time."
+          },
+          {
+            "tag": "p",
+            "text": "Farm-operations app for ponds and crops. Structured logs, tasks and visibility around daily aquaculture work."
+          },
+          {
+            "tag": "p",
+            "text": "Intelligence layer for farms and partners—dashboards, alerts and AI-powered recommendations on top of Aqua Sahay data."
+          },
+          {
+            "tag": "p",
+            "text": "A clean way for devices, labs and partner systems to plug into the same aquaculture data backbone."
+          },
+          {
+            "tag": "h2",
+            "text": "Products under Aurora Aqua"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "class": "rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm",
+        "content": [
+          {
+            "tag": "p",
+            "text": "If you're interested in Aqua Sahay or the broader roadmap, send us a short note with your context—pond count, species, region and what you're trying to improve."
+          },
+          {
+            "tag": "p",
+            "text": "Include your location, pond count and what you want to improve in the next 1–2 crops. We reply within 1 business day."
+          },
+          {
+            "tag": "h2",
+            "text": "Talk to the Aurora Aqua team"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.auroraaqua.in/#products",
+    "title": "Aurora Aqua",
+    "metaDescription": "",
+    "metaKeywords": "",
+    "content": [
+      {
+        "tag": "p",
+        "text": "Aurora Aqua · Aquaculture platform"
+      },
+      {
+        "tag": "p",
+        "text": "Aurora Aqua is the umbrella for data-driven aquaculture—helping farms, integrators and partners move from scattered logs to structured, visible operations."
+      },
+      {
+        "tag": "p",
+        "text": "Coastal Andhra, Tamil Nadu and Odisha with on-ground teams."
+      },
+      {
+        "tag": "p",
+        "text": "Structured logs, insights, partner APIs and offline-first field use."
+      },
+      {
+        "tag": "p",
+        "text": "Aurora Aqua is a set of connected layers—from daily farm operations to intelligence and partner integrations—built on one aquaculture data backbone."
+      },
+      {
+        "tag": "p",
+        "text": "Daily reality inside ponds and crops—logs, tasks, checklists, expenses and inventory. Aqua Sahay lives here."
+      },
+      {
+        "tag": "p",
+        "text": "Turning raw logs into decision-ready signals around risk, opportunity, seasonality and pond performance."
+      },
+      {
+        "tag": "p",
+        "text": "Sensors, labs, buyers and other systems that plug into the same aquaculture data backbone through clean APIs."
+      },
+      {
+        "tag": "p",
+        "text": "Every module is shaped with on-ground teams so the workflow fits how farms actually run."
+      },
+      {
+        "tag": "p",
+        "text": "Logs and tasks stay two taps away—even on patchy networks."
+      },
+      {
+        "tag": "p",
+        "text": "One backbone for sites, ponds and crops so decisions stay aligned."
+      },
+      {
+        "tag": "p",
+        "text": "Sensors, labs and buyers plug in without custom rewrites every season."
+      },
+      {
+        "tag": "p",
+        "text": "India is one of the fastest-growing aquaculture markets—shrimp, tilapia and carp across coastal Andhra, Tamil Nadu and Odisha. We work with farms, integrators and buyers to keep data flowing from ponds to decisions."
+      },
+      {
+        "tag": "p",
+        "text": "Ops teams and partners on the ground."
+      },
+      {
+        "tag": "p",
+        "text": "Shrimp and diversified species expansion."
+      },
+      {
+        "tag": "p",
+        "text": "Structured logs, feed and health data."
+      },
+      {
+        "tag": "p",
+        "text": "Clean APIs and field workflows."
+      },
+      {
+        "tag": "p",
+        "text": "Aqua Sahay is the first product coming out of Aurora Aqua. More modules will follow over time."
+      },
+      {
+        "tag": "p",
+        "text": "Farm-operations app for ponds and crops. Structured logs, tasks and visibility around daily aquaculture work."
+      },
+      {
+        "tag": "p",
+        "text": "Intelligence layer for farms and partners—dashboards, alerts and AI-powered recommendations on top of Aqua Sahay data."
+      },
+      {
+        "tag": "p",
+        "text": "A clean way for devices, labs and partner systems to plug into the same aquaculture data backbone."
+      },
+      {
+        "tag": "p",
+        "text": "If you're interested in Aqua Sahay or the broader roadmap, send us a short note with your context—pond count, species, region and what you're trying to improve."
+      },
+      {
+        "tag": "p",
+        "text": "Include your location, pond count and what you want to improve in the next 1–2 crops. We reply within 1 business day."
+      },
+      {
+        "tag": "h1",
+        "text": "Aquaculture that runs like a modern business."
+      },
+      {
+        "tag": "h2",
+        "text": "What Aurora Aqua covers"
+      },
+      {
+        "tag": "h2",
+        "text": "Operator-first principles"
+      },
+      {
+        "tag": "h2",
+        "text": "Aquaculture in India · where we operate"
+      },
+      {
+        "tag": "h2",
+        "text": "Products under Aurora Aqua"
+      },
+      {
+        "tag": "h2",
+        "text": "Talk to the Aurora Aqua team"
+      },
+      {
+        "tag": "ul",
+        "text": "• Early access cohorts in coastal clusters with on-ground support.• Data backbone for partners—labs, buyers, hatcheries and sensor OEMs.• Pilot analytics: survivability, feed conversion, water quality patterns."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.auroraaqua.in/aurora-aqua-mark.svg",
+        "alt": "Aurora Aqua",
+        "title": ""
+      },
+      {
+        "src": "https://www.auroraaqua.in/aurora-aqua-logo.svg",
+        "alt": "Aurora Aqua logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.auroraaqua.in/in.svg",
+        "alt": "India map focused on coastal footprint",
+        "title": ""
+      }
+    ],
+    "navigation": [
+      {
+        "text": "Overview",
+        "url": "https://www.auroraaqua.in/",
+        "isExternal": false
+      },
+      {
+        "text": "Products",
+        "url": "https://www.auroraaqua.in/#products",
+        "isExternal": false
+      },
+      {
+        "text": "Contact",
+        "url": "https://www.auroraaqua.in/#contact",
+        "isExternal": false
+      },
+      {
+        "text": "Open Dashboard",
+        "url": "https://app.auroraaqua.in",
+        "isExternal": true
+      }
+    ],
+    "sections": [
+      {
+        "id": "section-0",
+        "class": "relative mb-12 grid gap-8 overflow-hidden rounded-3xl bg-white/60 p-5 shadow-[0_15px_40px_rgba(15,23,42,0.08)] ring-1 ring-slate-100 md:grid-cols-[minmax(0,1.6fr)_minmax(0,1.2fr)] md:items-center md:gap-10",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aurora Aqua · Aquaculture platform"
+          },
+          {
+            "tag": "p",
+            "text": "Aurora Aqua is the umbrella for data-driven aquaculture—helping farms, integrators and partners move from scattered logs to structured, visible operations."
+          },
+          {
+            "tag": "p",
+            "text": "Coastal Andhra, Tamil Nadu and Odisha with on-ground teams."
+          },
+          {
+            "tag": "p",
+            "text": "Structured logs, insights, partner APIs and offline-first field use."
+          },
+          {
+            "tag": "h1",
+            "text": "Aquaculture that runs like a modern business."
+          }
+        ]
+      },
+      {
+        "id": "section-1",
+        "class": "mb-12 fade-up fade-delay-50",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aurora Aqua is a set of connected layers—from daily farm operations to intelligence and partner integrations—built on one aquaculture data backbone."
+          },
+          {
+            "tag": "p",
+            "text": "Daily reality inside ponds and crops—logs, tasks, checklists, expenses and inventory. Aqua Sahay lives here."
+          },
+          {
+            "tag": "p",
+            "text": "Turning raw logs into decision-ready signals around risk, opportunity, seasonality and pond performance."
+          },
+          {
+            "tag": "p",
+            "text": "Sensors, labs, buyers and other systems that plug into the same aquaculture data backbone through clean APIs."
+          },
+          {
+            "tag": "h2",
+            "text": "What Aurora Aqua covers"
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "class": "mb-12 rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm fade-up fade-delay-80",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Every module is shaped with on-ground teams so the workflow fits how farms actually run."
+          },
+          {
+            "tag": "p",
+            "text": "Logs and tasks stay two taps away—even on patchy networks."
+          },
+          {
+            "tag": "p",
+            "text": "One backbone for sites, ponds and crops so decisions stay aligned."
+          },
+          {
+            "tag": "p",
+            "text": "Sensors, labs and buyers plug in without custom rewrites every season."
+          },
+          {
+            "tag": "h2",
+            "text": "Operator-first principles"
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "class": "mb-12 grid gap-6 rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm md:grid-cols-[1.2fr_1fr] md:items-center fade-up fade-delay-120",
+        "content": [
+          {
+            "tag": "p",
+            "text": "India is one of the fastest-growing aquaculture markets—shrimp, tilapia and carp across coastal Andhra, Tamil Nadu and Odisha. We work with farms, integrators and buyers to keep data flowing from ponds to decisions."
+          },
+          {
+            "tag": "p",
+            "text": "Ops teams and partners on the ground."
+          },
+          {
+            "tag": "p",
+            "text": "Shrimp and diversified species expansion."
+          },
+          {
+            "tag": "p",
+            "text": "Structured logs, feed and health data."
+          },
+          {
+            "tag": "p",
+            "text": "Clean APIs and field workflows."
+          },
+          {
+            "tag": "h2",
+            "text": "Aquaculture in India · where we operate"
+          },
+          {
+            "tag": "ul",
+            "text": "• Early access cohorts in coastal clusters with on-ground support.• Data backbone for partners—labs, buyers, hatcheries and sensor OEMs.• Pilot analytics: survivability, feed conversion, water quality patterns."
+          }
+        ]
+      },
+      {
+        "id": "products",
+        "class": "mb-12",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aqua Sahay is the first product coming out of Aurora Aqua. More modules will follow over time."
+          },
+          {
+            "tag": "p",
+            "text": "Farm-operations app for ponds and crops. Structured logs, tasks and visibility around daily aquaculture work."
+          },
+          {
+            "tag": "p",
+            "text": "Intelligence layer for farms and partners—dashboards, alerts and AI-powered recommendations on top of Aqua Sahay data."
+          },
+          {
+            "tag": "p",
+            "text": "A clean way for devices, labs and partner systems to plug into the same aquaculture data backbone."
+          },
+          {
+            "tag": "h2",
+            "text": "Products under Aurora Aqua"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "class": "rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm",
+        "content": [
+          {
+            "tag": "p",
+            "text": "If you're interested in Aqua Sahay or the broader roadmap, send us a short note with your context—pond count, species, region and what you're trying to improve."
+          },
+          {
+            "tag": "p",
+            "text": "Include your location, pond count and what you want to improve in the next 1–2 crops. We reply within 1 business day."
+          },
+          {
+            "tag": "h2",
+            "text": "Talk to the Aurora Aqua team"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.auroraaqua.in/#contact",
+    "title": "Aurora Aqua",
+    "metaDescription": "",
+    "metaKeywords": "",
+    "content": [
+      {
+        "tag": "p",
+        "text": "Aurora Aqua · Aquaculture platform"
+      },
+      {
+        "tag": "p",
+        "text": "Aurora Aqua is the umbrella for data-driven aquaculture—helping farms, integrators and partners move from scattered logs to structured, visible operations."
+      },
+      {
+        "tag": "p",
+        "text": "Coastal Andhra, Tamil Nadu and Odisha with on-ground teams."
+      },
+      {
+        "tag": "p",
+        "text": "Structured logs, insights, partner APIs and offline-first field use."
+      },
+      {
+        "tag": "p",
+        "text": "Aurora Aqua is a set of connected layers—from daily farm operations to intelligence and partner integrations—built on one aquaculture data backbone."
+      },
+      {
+        "tag": "p",
+        "text": "Daily reality inside ponds and crops—logs, tasks, checklists, expenses and inventory. Aqua Sahay lives here."
+      },
+      {
+        "tag": "p",
+        "text": "Turning raw logs into decision-ready signals around risk, opportunity, seasonality and pond performance."
+      },
+      {
+        "tag": "p",
+        "text": "Sensors, labs, buyers and other systems that plug into the same aquaculture data backbone through clean APIs."
+      },
+      {
+        "tag": "p",
+        "text": "Every module is shaped with on-ground teams so the workflow fits how farms actually run."
+      },
+      {
+        "tag": "p",
+        "text": "Logs and tasks stay two taps away—even on patchy networks."
+      },
+      {
+        "tag": "p",
+        "text": "One backbone for sites, ponds and crops so decisions stay aligned."
+      },
+      {
+        "tag": "p",
+        "text": "Sensors, labs and buyers plug in without custom rewrites every season."
+      },
+      {
+        "tag": "p",
+        "text": "India is one of the fastest-growing aquaculture markets—shrimp, tilapia and carp across coastal Andhra, Tamil Nadu and Odisha. We work with farms, integrators and buyers to keep data flowing from ponds to decisions."
+      },
+      {
+        "tag": "p",
+        "text": "Ops teams and partners on the ground."
+      },
+      {
+        "tag": "p",
+        "text": "Shrimp and diversified species expansion."
+      },
+      {
+        "tag": "p",
+        "text": "Structured logs, feed and health data."
+      },
+      {
+        "tag": "p",
+        "text": "Clean APIs and field workflows."
+      },
+      {
+        "tag": "p",
+        "text": "Aqua Sahay is the first product coming out of Aurora Aqua. More modules will follow over time."
+      },
+      {
+        "tag": "p",
+        "text": "Farm-operations app for ponds and crops. Structured logs, tasks and visibility around daily aquaculture work."
+      },
+      {
+        "tag": "p",
+        "text": "Intelligence layer for farms and partners—dashboards, alerts and AI-powered recommendations on top of Aqua Sahay data."
+      },
+      {
+        "tag": "p",
+        "text": "A clean way for devices, labs and partner systems to plug into the same aquaculture data backbone."
+      },
+      {
+        "tag": "p",
+        "text": "If you're interested in Aqua Sahay or the broader roadmap, send us a short note with your context—pond count, species, region and what you're trying to improve."
+      },
+      {
+        "tag": "p",
+        "text": "Include your location, pond count and what you want to improve in the next 1–2 crops. We reply within 1 business day."
+      },
+      {
+        "tag": "h1",
+        "text": "Aquaculture that runs like a modern business."
+      },
+      {
+        "tag": "h2",
+        "text": "What Aurora Aqua covers"
+      },
+      {
+        "tag": "h2",
+        "text": "Operator-first principles"
+      },
+      {
+        "tag": "h2",
+        "text": "Aquaculture in India · where we operate"
+      },
+      {
+        "tag": "h2",
+        "text": "Products under Aurora Aqua"
+      },
+      {
+        "tag": "h2",
+        "text": "Talk to the Aurora Aqua team"
+      },
+      {
+        "tag": "ul",
+        "text": "• Early access cohorts in coastal clusters with on-ground support.• Data backbone for partners—labs, buyers, hatcheries and sensor OEMs.• Pilot analytics: survivability, feed conversion, water quality patterns."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.auroraaqua.in/aurora-aqua-mark.svg",
+        "alt": "Aurora Aqua",
+        "title": ""
+      },
+      {
+        "src": "https://www.auroraaqua.in/aurora-aqua-logo.svg",
+        "alt": "Aurora Aqua logo",
+        "title": ""
+      },
+      {
+        "src": "https://www.auroraaqua.in/in.svg",
+        "alt": "India map focused on coastal footprint",
+        "title": ""
+      }
+    ],
+    "navigation": [
+      {
+        "text": "Overview",
+        "url": "https://www.auroraaqua.in/",
+        "isExternal": false
+      },
+      {
+        "text": "Products",
+        "url": "https://www.auroraaqua.in/#products",
+        "isExternal": false
+      },
+      {
+        "text": "Contact",
+        "url": "https://www.auroraaqua.in/#contact",
+        "isExternal": false
+      },
+      {
+        "text": "Open Dashboard",
+        "url": "https://app.auroraaqua.in",
+        "isExternal": true
+      }
+    ],
+    "sections": [
+      {
+        "id": "section-0",
+        "class": "relative mb-12 grid gap-8 overflow-hidden rounded-3xl bg-white/60 p-5 shadow-[0_15px_40px_rgba(15,23,42,0.08)] ring-1 ring-slate-100 md:grid-cols-[minmax(0,1.6fr)_minmax(0,1.2fr)] md:items-center md:gap-10",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aurora Aqua · Aquaculture platform"
+          },
+          {
+            "tag": "p",
+            "text": "Aurora Aqua is the umbrella for data-driven aquaculture—helping farms, integrators and partners move from scattered logs to structured, visible operations."
+          },
+          {
+            "tag": "p",
+            "text": "Coastal Andhra, Tamil Nadu and Odisha with on-ground teams."
+          },
+          {
+            "tag": "p",
+            "text": "Structured logs, insights, partner APIs and offline-first field use."
+          },
+          {
+            "tag": "h1",
+            "text": "Aquaculture that runs like a modern business."
+          }
+        ]
+      },
+      {
+        "id": "section-1",
+        "class": "mb-12 fade-up fade-delay-50",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aurora Aqua is a set of connected layers—from daily farm operations to intelligence and partner integrations—built on one aquaculture data backbone."
+          },
+          {
+            "tag": "p",
+            "text": "Daily reality inside ponds and crops—logs, tasks, checklists, expenses and inventory. Aqua Sahay lives here."
+          },
+          {
+            "tag": "p",
+            "text": "Turning raw logs into decision-ready signals around risk, opportunity, seasonality and pond performance."
+          },
+          {
+            "tag": "p",
+            "text": "Sensors, labs, buyers and other systems that plug into the same aquaculture data backbone through clean APIs."
+          },
+          {
+            "tag": "h2",
+            "text": "What Aurora Aqua covers"
+          }
+        ]
+      },
+      {
+        "id": "section-2",
+        "class": "mb-12 rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm fade-up fade-delay-80",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Every module is shaped with on-ground teams so the workflow fits how farms actually run."
+          },
+          {
+            "tag": "p",
+            "text": "Logs and tasks stay two taps away—even on patchy networks."
+          },
+          {
+            "tag": "p",
+            "text": "One backbone for sites, ponds and crops so decisions stay aligned."
+          },
+          {
+            "tag": "p",
+            "text": "Sensors, labs and buyers plug in without custom rewrites every season."
+          },
+          {
+            "tag": "h2",
+            "text": "Operator-first principles"
+          }
+        ]
+      },
+      {
+        "id": "section-3",
+        "class": "mb-12 grid gap-6 rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm md:grid-cols-[1.2fr_1fr] md:items-center fade-up fade-delay-120",
+        "content": [
+          {
+            "tag": "p",
+            "text": "India is one of the fastest-growing aquaculture markets—shrimp, tilapia and carp across coastal Andhra, Tamil Nadu and Odisha. We work with farms, integrators and buyers to keep data flowing from ponds to decisions."
+          },
+          {
+            "tag": "p",
+            "text": "Ops teams and partners on the ground."
+          },
+          {
+            "tag": "p",
+            "text": "Shrimp and diversified species expansion."
+          },
+          {
+            "tag": "p",
+            "text": "Structured logs, feed and health data."
+          },
+          {
+            "tag": "p",
+            "text": "Clean APIs and field workflows."
+          },
+          {
+            "tag": "h2",
+            "text": "Aquaculture in India · where we operate"
+          },
+          {
+            "tag": "ul",
+            "text": "• Early access cohorts in coastal clusters with on-ground support.• Data backbone for partners—labs, buyers, hatcheries and sensor OEMs.• Pilot analytics: survivability, feed conversion, water quality patterns."
+          }
+        ]
+      },
+      {
+        "id": "products",
+        "class": "mb-12",
+        "content": [
+          {
+            "tag": "p",
+            "text": "Aqua Sahay is the first product coming out of Aurora Aqua. More modules will follow over time."
+          },
+          {
+            "tag": "p",
+            "text": "Farm-operations app for ponds and crops. Structured logs, tasks and visibility around daily aquaculture work."
+          },
+          {
+            "tag": "p",
+            "text": "Intelligence layer for farms and partners—dashboards, alerts and AI-powered recommendations on top of Aqua Sahay data."
+          },
+          {
+            "tag": "p",
+            "text": "A clean way for devices, labs and partner systems to plug into the same aquaculture data backbone."
+          },
+          {
+            "tag": "h2",
+            "text": "Products under Aurora Aqua"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "class": "rounded-2xl border border-slate-200 bg-white/80 p-5 shadow-sm",
+        "content": [
+          {
+            "tag": "p",
+            "text": "If you're interested in Aqua Sahay or the broader roadmap, send us a short note with your context—pond count, species, region and what you're trying to improve."
+          },
+          {
+            "tag": "p",
+            "text": "Include your location, pond count and what you want to improve in the next 1–2 crops. We reply within 1 business day."
+          },
+          {
+            "tag": "h2",
+            "text": "Talk to the Aurora Aqua team"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "url": "https://www.auroraaqua.in/products/aqua-sahay",
+    "title": "404: NOT_FOUND",
+    "metaDescription": "",
+    "metaKeywords": "",
+    "content": [
+      {
+        "tag": "p",
+        "text": "404: NOT_FOUND\nCode: NOT_FOUND\nID: bom1::kptqz-1770451279249-f483d4b91dc4"
+      }
+    ],
+    "images": [],
+    "navigation": [],
+    "sections": []
+  }
+]
