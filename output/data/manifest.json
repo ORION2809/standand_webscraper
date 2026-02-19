@@ -1,7 +1,25 @@
 {
-  "pages": 4,
-  "images": 3,
-  "imagesDownloaded": 3,
-  "sections": 24,
-  "lastUpdated": "2026-02-07T08:01:25.163Z"
+  "website": "https://metroconet.com",
+  "scrapedAt": "2026-02-12T06:27:48.657Z",
+  "statistics": {
+    "totalPages": 488,
+    "totalImages": 11,
+    "imagesDownloaded": 6,
+    "totalDocuments": 0,
+    "documentsDownloaded": 0,
+    "totalExternalLinks": 3373,
+    "totalForms": 1,
+    "totalStylesheets": 2,
+    "totalScripts": 19,
+    "emails": [
+      "media@metronetreseller.com",
+      "support@metronetreseller.com",
+      "billing@metronetreseller.com",
+      "james@example.com",
+      "careers@metronetreseller.com"
+    ],
+    "phones": [
+      "877-407-3224"
+    ]
+  }
 }

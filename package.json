@@ -1,10 +1,12 @@
 {
-  "name": "aurora-aqua-scraper",
+  "name": "website-scraper",
   "version": "1.0.0",
-  "description": "Web scraper for Aurora Aqua website data extraction",
+  "description": "Comprehensive web scraper for complete website data extraction",
   "type": "module",
   "scripts": {
     "scrape": "node src/scraper.js",
+    "scrape:metroconet": "node src/metroconet-scraper.js",
+    "scrape:puppeteer": "node src/scraper-puppeteer.js",
     "clean": "rm -rf output && mkdir -p output"
   },
   "dependencies": {

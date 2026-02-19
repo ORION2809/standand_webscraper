@@ -1,0 +1,33 @@
+[
+  {
+    "pageUrl": "https://metroconet.com/contact-us",
+    "action": "https://metroconet.com/contact-us",
+    "method": "get",
+    "fields": [
+      {
+        "type": "text",
+        "name": "name",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "email",
+        "name": "email",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "tel",
+        "name": "phone",
+        "placeholder": "",
+        "required": true
+      },
+      {
+        "type": "text",
+        "name": "address",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  }
+]

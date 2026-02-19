@@ -1,0 +1,28 @@
+{
+  "stylesheets": [
+    "https://metroconet.com/_next/static/css/6ed91890780792f0.css",
+    "https://metroconet.com/_next/static/css/7e7d96b1e6991756.css"
+  ],
+  "scripts": [
+    "https://metroconet.com/_next/static/chunks/4597a8f9-ca9dfa6dbdb3f727.js",
+    "https://metroconet.com/_next/static/chunks/4041-67998ae71a53c9b0.js",
+    "https://metroconet.com/_next/static/chunks/main-app-2572202c63769d77.js",
+    "https://metroconet.com/_next/static/chunks/4031-c64e69a06022c743.js",
+    "https://metroconet.com/_next/static/chunks/8438-3c74c0957a551e76.js",
+    "https://metroconet.com/_next/static/chunks/app/layout-a3430865b5dcfa49.js",
+    "https://metroconet.com/_next/static/chunks/599-c4c98f31a779e0de.js",
+    "https://metroconet.com/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "https://metroconet.com/_next/static/chunks/webpack-8079f93987708fb2.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-07QK0ZSDWH",
+    "https://metroconet.com/_next/static/chunks/7336-bedf34bdd0b57640.js",
+    "https://metroconet.com/_next/static/chunks/9798-da7d6fa198d661d6.js",
+    "https://metroconet.com/_next/static/chunks/8811-667c85980fbd20e5.js",
+    "https://metroconet.com/_next/static/chunks/app/page-b1a6af4b788891e6.js",
+    "https://metroconet.com/_next/static/chunks/app/plans-pricing/page-147cd4518c295012.js",
+    "https://metroconet.com/_next/static/chunks/app/city/%5Bslug%5D/page-6c4f60f115fd9763.js",
+    "https://metroconet.com/_next/static/chunks/166-f501f9bf16511fa5.js",
+    "https://metroconet.com/_next/static/chunks/app/metronet-state/%5Bslug%5D/page-b7a35d74d972cbbc.js",
+    "https://metroconet.com/_next/static/chunks/app/metronet/%5Bcity%5D/page-2fa029574a9b6643.js"
+  ],
+  "videos": []
+}
